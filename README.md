@@ -1,4 +1,4 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=viti95&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=viti95&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=viti95&count_private=true&show_icons=true&theme=radical&custom_title=viti95">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viti95&layout=compact&theme=radical">
 </p>
